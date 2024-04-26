@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edb589d1ab7646de5275807565e6b76d6347ca6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

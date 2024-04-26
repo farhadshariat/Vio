@@ -12,3 +12,4 @@ C:\Users\Unitec\Desktop\C#\Vio\Vio\obj\Debug\net8.0\refint\Vio.dll
 C:\Users\Unitec\Desktop\C#\Vio\Vio\obj\Debug\net8.0\Vio.pdb
 C:\Users\Unitec\Desktop\C#\Vio\Vio\obj\Debug\net8.0\Vio.genruntimeconfig.cache
 C:\Users\Unitec\Desktop\C#\Vio\Vio\obj\Debug\net8.0\ref\Vio.dll
+C:\Users\Unitec\Desktop\C#\Vio\Vio\obj\Debug\net8.0\Vio.sourcelink.json
