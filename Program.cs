@@ -241,9 +241,13 @@ namespace Vio
             {
                 token = lexer.NextToken();
 
-                if (token.Kind != SyntaxKind.WhitespaceToken
-                    || token.Kind != SyntaxKind.EndOfFileToken)
-                    tokens.Add(token);
+                if (token.Kind != SyntaxKind.WhitespaceToken)
+                {
+                    if (token.Kind != SyntaxKind.EndOfFileToken)
+                    {
+                        tokens.Add(token);
+                    }
+                }
             }
             while (token.Kind != SyntaxKind.EndOfFileToken);
 
@@ -281,7 +285,7 @@ namespace Vio
 
         sealed class SyntaxTree
         {
-            
+
         }
 
         public ExpressionSyntax Parse()
